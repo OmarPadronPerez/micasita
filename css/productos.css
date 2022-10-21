@@ -1,0 +1,8 @@
+.tarjeta .nombre_Producto{
+    font-weight: bold;
+}
+
+.camara_btn{
+    height: 100%;
+    border-style:outset;
+}
